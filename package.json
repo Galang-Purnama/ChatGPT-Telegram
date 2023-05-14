@@ -1,0 +1,30 @@
+{
+  "name": "ChatGPT",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "gpt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Arifzyn.js"
+  },
+  "keywords": [
+    "bot-tele"
+  ],
+  "author": "DEFF",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.9.3",
+    "chalk": "^4.1.1",
+    "node-telegram-bot-api": "0.61.0",
+    "openai": "latest",
+    "spinnies": "^0.5.1",
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deff-y"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
