@@ -9,14 +9,8 @@
 <a href="https://github.com/Galang-Purnama/ChatGPT-Telegram"><img title="Author" src="https://img.shields.io/badge/Galang-Purnama-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-
-<a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Galang-Purnama/Telebot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Galang-Purnama/Telebot?color=red&style=flat-square"></a>
-<a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Galang-Purnama/Telebot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Galang-Purnama/ChatGPT-Telegram"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/"><img title="Size" src="https://img.shields.io/github/repo-size/Galang-Purnama/Telebot?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGalang-Purnama%2FTelebot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-No-green.svg"></a>&nbsp;&nbsp;
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGalang-Purnama%2FTelebot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>&nbsp;&nbsp;
 </p>
 </div>
 
