@@ -9,7 +9,7 @@
 <a href="https://github.com/Galang-Purnama/ChatGPT-Telegram"><img title="Author" src="https://img.shields.io/badge/Galang-Purnama-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Galang-Purnama/followers"><img title="Followers" src="https://img.shields.io/github/followers/Galang-Purnama?color=red&style=flat-square"></a>
+
 <a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Galang-Purnama/Telebot?color=blue&style=flat-square"></a>
 <a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Galang-Purnama/Telebot?color=red&style=flat-square"></a>
 <a href="https://github.com/Galang-Purnama/ChatGPT-Telegram/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Galang-Purnama/Telebot?label=Watchers&color=blue&style=flat-square"></a>
