@@ -8,7 +8,7 @@ const configuration = new Configuration({
   }); 
 
 const bot = new TelegramBot(bot_token, { polling: true });
-console.log(chalk.yellow('CONNECTED TO TOKEN : ')+' '+set.token)
+
 console.log(banner.string)
 Sukses('2', 'Connecting...')
 setTimeout( () => {
